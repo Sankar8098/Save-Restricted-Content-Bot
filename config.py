@@ -12,9 +12,9 @@ class Config:
 #Your API HASH from my.telegram.org      
     API_HASH = os.environ.get("API_HASH", "a69d0340a520c1913c517bea143a3de7")
 #BOT TOKEN: @Botfather on telegram    
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", "5647123835:AAHN6PUFsVpCFkxYuSdHlX4iW_Wc8Nuo7IU")
+    BOT_TOKEN = os.environ.get("BOT_TOKEN", "5682083705:AAHHEc78t-XJUKPMba4CIRc4C1by-GH9lxE")
 #Public channel username without '@'. Don't forget to add bot in channel as administrator.    
-    FORCESUB = os.environ.get("FORCESUB", "akimax") 
+    FORCESUB = os.environ.get("FORCESUB", "SK_MoviesOffl") 
 #Owner user id   
     AUTH  = os.environ.get("OWNER_ID", "5143506371")
 #Pyrogram string session using (https://replit.com/@KindKobra/Pyrogram-String-Gen?v=1)
